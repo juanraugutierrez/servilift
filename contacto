@@ -1,0 +1,236 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf8" />
+<meta name ="description" content="Empresa de asesoria dedicada principalmente a la contabilidad, reforma tributaria, prestacion de servicios para las pymes. Amplia experiencia en outsourcing, seleccion de personal. Servicio de manejo de remeneraciones y pagos sociales"/>
+<meta name ="key" content="contabilidad,outsourcing,facturacion electronica,reforma tributaria"/>
+<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+<meta name="author" content="Adegest Spa">
+<link href="css/home-site.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="css/demo.css" />
+<link rel="stylesheet" type="text/css" href="css/style-.css" />
+<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" />
+
+<link rel="stylesheet" type="text/css" href="css/jquery.jscrollpane.css" media="all" />
+<link href="css/bootstrap.min.css" rel="stylesheet">
+      
+<link href="themes/js-image-slider.css" rel="stylesheet" type="text/css" />
+<script src="themes/js-image-slider.js" type="text/javascript"></script>
+
+<link href="generic.css" rel="stylesheet" type="text/css" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Morales Contabilidad | Servicios</title>
+<link href="css/css.css" rel="stylesheet" type="text/css" />
+<link href="css/estilos.css" rel="stylesheet" type="text/css" />
+
+
+</head>
+
+
+<body>
+<div id="wrapper">
+
+<div class="barra_top">
+<div class="barra_top_links">   </div>
+<div class="barra_top_links">   </div>
+</div>
+<div id="encabezado"><a href="#" target="_self"><img src="img/logo.png" width="290" height="57" alt="LOGO" /></a>
+
+<div class="row"></div>
+<div class="container"> 
+ 
+
+  <div class="btn-group">
+  <nav class="collapse navbar-collapse">
+   <ul class="nav navbar-nav navbar-brand navbar-form" > 
+	  	<li> <a href="index.html">Home </a> </li>  
+	  	<li> <a href="quienesomos.html">Quienes Somos</a> </li>
+	   	<li   class="active"> <a href="servicios.html">Servicios</a> </li>
+	   	<li> <a href="contacto.html">Contacto</a> </li>
+	   	<li> <a href="#">Acceso a Clientes</a> </li>
+   	</ul>
+   	</nav>
+   	
+   </div>
+	<div class="clearfix"></div>
+</div>
+</div>
+<div class="row">
+<div id="principal_home">
+ <div id="sliderFrame">
+        <div id="slider">
+            <a href="#" target="_blank"><img src="img/compliance-home.jpg" alt="" /></a>
+            <a href="#" target="_blank"><img src="img/contabilidad.jpg" alt="" /></a>
+            <a href="#" target="_blank"><img src="img/biblioteca-1.jpg" alt="" /></a>
+            <a href="#" target="_blank"><img src="img/one.jpg" alt="" /></a>
+            <a href="#" target="_blank"><img src="img/gtm.jpg" alt="" /></a>
+        </div>
+    </div>
+
+	<div class="clearfix"> </div>
+	<div style="padding-top:5px;  margin-left: -20px;">
+	
+		<section class="element">
+
+		<section id="services" class="element">
+        <div class="container">
+        	<!--
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="center gap">
+                        <h2>En qué nos Especializamos</h2>
+                        <p>Nuestra experiencia nos permite ofrecer a nuestros Clientes los siguientes Productos y Servicios</p>
+                    </div>                
+                </div>
+            </div>
+            -->
+            <div class="row">
+                <div class="col-md-6 col-sm-5"">
+                <hr>
+                    <div class="media">
+                        <div class="pull-left">
+                            <i class="icon-hand-up icon-md"></i>
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading tit1">Asesoria contable Tributaria y Financiera</h3>
+                            <p>Proveemos  servicios de asesorias en temas contables, tributarios y financieros, el objetivo es acompañar a las Pymes en la toma de dicisiones estrategicas que tengan incidencia en los resultados financieros y preveer los efectos tributarios.</p>
+                        </div>
+                    </div>
+                </div>
+                </div>
+                 <div class="gap"></div>
+                 <!--/.col-md-4-->
+                <!--
+                <div class="col-md-4 col-sm-6">
+                    <div class="media">
+                        <div class="pull-left">
+                            <i class="icon-hand-right icon-md"></i>
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">Remates Judiciales</h3>
+                            <p>Subasta ordenada por un Tribunal,  dirigida a todo público y al mejor postor, donde los bienes tienen precios mínimos y corresponden a deudores.</p>
+                        </div>
+                    </div>
+                </div><!--/.col-md-4-->
+                <div class="row">
+                <div class="col-md-6 col-sm-5"">
+                <hr>
+                    <div class="media">
+                        <div class="pull-left">
+                            <i class="icon-hand-down icon-md"></i>
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading tit1">Asesoria Legal</h3>
+                            <p>Contamos con un equipo jurido para proveer de este tipo de asesorias especializados en los temas más relevantes para las PYMES, nuestros profesionales tienen las destrezas necesarias y adecuadas que requieren los complejos problemas y restricciones a las que estan sometidas las organizaciones medianas y pequeñas que podrian </p>
+                        </div>
+                    </div>
+                </div>
+                </div>
+                 <div class="gap"></div>
+                <div class="row"><!--/.col-md-4-->
+                <div class="col-md-6 col-sm-5"">
+                <hr>
+                    <div class="media">
+                        <div class="pull-left">
+                            <i class="icon-tasks icon-md"></i>
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading tit1">Remuneraciones</h3>
+                            <p>Poseemos el personal, los recuersos y la capacidad para asumir esta tarea  y liberar  recursos y tiempo a nuestros clientes para que asi ellos puedan dedicar sus energias al desarrollo sostenible y armonico de sus emprendimientos.</p>
+                        </div>
+                    </div>
+                </div><!--/.col-md-4-->                
+            </div><!--/.row-->
+            
+            <div class="gap"></div>
+            
+            <div class="row">
+                <div class="col-md-6 col-sm-5">
+                <hr>
+                    <div class="media">
+                        <div class="pull-left">
+                            <i class="icon-magic icon-md"></i>
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading tit1">Operacion Renta</h3>
+                            <p>Contribuimos eficientemente en la operacion renta de las pymes cada año aportando. Acompañamos a nuestros cliente en  el proceso completo siendo un patner de relevancia estrategica que provee de sinergia  a quienes necesitan.</p>
+                        </div>
+                    </div>
+                </div>
+                </div>
+                <!--/.col-md-4-->
+                 <div class="gap"></div>
+            
+            <div class="row">
+
+                <div class="col-md-6 col-sm-5">
+                <hr>
+                    <div class="media">
+                        <div class="pull-left">
+                            <i class="icon-money icon-md"></i>
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading tit1">Planificacion Tributaria</h3>
+                            <p>Entre las cuenstiones mas importantes para una organizacion que comienza  y que posee recursos limitados es monitorear en todo momento las obligaciones tributarias que ncen de su operacion, este servicio lo prestamos en conjunto con todo los otros servicios. Buscamos optimizar el accionar de la empresa dentro de la norma tributaria.</p> 
+                        </div>
+                    </div>
+                </div><!--/.col-md-4-->
+            </div>
+            <!--/.row-->
+            <hr>
+           <!-- <div class="row">
+                <div class="col-lg-12">
+                    <div class="center">
+                        <h2>Nuestros Clientes</h2>
+                        <p>Para nuestra Empresa es muy importante la opinión de nuestros Clientes.</p>
+                    </div>
+                    <div class="gap"></div>
+                    <div class="row">
+                    	
+                    </div>
+                </div>
+            </div>-->
+        </div>
+    </section><!--/#services-->
+	</section>
+		<div id="principal_foot">
+
+
+<div class="foot_links"><a href="#" target="_self"></a></div>
+<div class="foot_links"><a href="#" target="_self"></a></div>
+</div>
+<div>
+<div id="foot">
+
+              <div class="text">LÍDER SOLUCIONES PARA PYMES,<br />EMPRESAS, INSTITUCIONES Y PROFESIONALES</div>
+			
+
+
+	<div id="foot-logo">
+	<hr>
+	<div>
+	<h5><div class="">ENLACES</div></h5>
+				<div class="links">
+					<a href="#" target="_self">SII</a><br />
+					<a href="#" target="_self">CONTRALORIA GENERAL DE LA REPUBLICA</a><br />
+					<a href="#" target="_self">MINISTERIO DE HACIENDA</a><br />
+					<a href="#" target="_self">DIRECCION DEL TRABAJO</a><br />
+					<a href="#" target="_self">PREVIRED</a>
+				</div>
+	</div>
+	</div>
+	<hr>
+	<a href="#">Términos del servicio</a> | 
+	<a href="#">Políticas de privacidad</a> | 
+	<a href="#">Copyright</a>   Adegest © 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	
+	   </div>
+
+	</div>
+    </div>
+
+
+</body>
+</html>
